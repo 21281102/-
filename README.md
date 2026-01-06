@@ -33,13 +33,13 @@ pip install -r requirements.txt
 cd frontend
 npm install
 ```
-###3.下载模型文件与解压
+### 3.下载模型文件与解压
 
-模型下载地址：【快传】我给你发了 me...ft.zip, 快来看看 https://www.alipan.com/t/pTbr35Jk49m6HaZK3feT 点击链接即可保存。「阿里云盘」APP ，无需下载极速在线查看，视频原画倍速播放。
+```模型下载地址：【快传】我给你发了 me...ft.zip, 快来看看 https://www.alipan.com/t/pTbr35Jk49m6HaZK3feT 点击链接即可保存。「阿里云盘」APP ，无需下载极速在线查看，视频原画倍速播放。
 
 
 解压前端压缩包
-
+```
 ## 配置模型路径
 
 有两种方式配置模型路径：
