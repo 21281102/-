@@ -33,6 +33,8 @@ pip install -r requirements.txt
 cd frontend
 npm install
 ```
+###3.解压
+解压前端压缩包
 
 ## 配置模型路径
 
